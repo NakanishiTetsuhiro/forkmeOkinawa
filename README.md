@@ -30,10 +30,14 @@ Please feel free pull request.
 
 ## Reference documents
 
-### $B$o$+$j$d$9$$(BREADME.md$B$r=q$/(B
+### わかりやすいREADME.mdを書く
 
 http://deeeet.com/writing/2014/07/31/readme/
 
-### github$B=i?4<T$,(BPull Request$B$rAw$C$F$_$?;~$N<j=g(B
+### github初心者がPull Requestを送ってみた時の手順
 
 http://blog.mogmet.com/github-abecedarian-send-pull-request/
+
+### githubの日本語のコメントが化けていた
+
+http://d.hatena.ne.jp/snaka72/20081029/1225307238
