@@ -37,3 +37,7 @@ http://deeeet.com/writing/2014/07/31/readme/
 ### github初心者がPull Requestを送ってみた時の手順
 
 http://blog.mogmet.com/github-abecedarian-send-pull-request/
+
+### githubの日本語のコメントが化けていた
+
+http://d.hatena.ne.jp/snaka72/20081029/1225307238
