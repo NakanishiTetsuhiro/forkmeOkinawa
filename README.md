@@ -41,8 +41,3 @@ http://blog.mogmet.com/github-abecedarian-send-pull-request/
 ### githubの日本語のコメントが化けていた
 
 http://d.hatena.ne.jp/snaka72/20081029/1225307238
-
-
-### .gitignore 一覧
-
-https://github.com/github/gitignore
