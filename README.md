@@ -9,30 +9,23 @@ Please feel free pull request.
 
 ## Commit rules
 
-1. It is interesting commit.(But it may be no technical capabilities)
-面白いコミットであること（技術的に高くある必要はありません）
+1. It is interesting commit.(But it may be no technical capabilities) (面白いコミットであること（技術的に高くある必要はありません）)
 
-2. Those that do not violate the public order and morals
-公序良俗に違反しない内容であること
+2. Those that do not violate the public order and morals (公序良俗に違反しない内容であること)
 
 ## Example
 
-* Simple code(Programming language, anything is fine)
-シンプルなコード
+* Simple code(Programming language, anything is fine) (シンプルなコード)
 
-* Hilarious sentence
-ウケるテキスト
+* Hilarious sentence (ウケるテキスト)
 
 ## I want...
 
-1. Fork me Okinawa! Logo
-Fork me Okinawa!のロゴが欲しいです
+1. Fork me Okinawa! Logo (Fork me Okinawa!のロゴが欲しいです)
 
-2. Modification of this README.md
-このREADME.mdの英語を修正していただきたい
+2. Modification of this README.md (このREADME.mdの英語を修正していただきたい)
 
-3. Please teach me English...
-そこのお方！英語教えてください(´・ω・｀)
+3. Please teach me English... (そこのお方！英語教えてください(´・ω・｀))
 
 ## Licence
 
